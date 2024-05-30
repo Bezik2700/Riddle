@@ -1,0 +1,79 @@
+<resources>
+
+    //the level text
+    <string name="app_name">Riddle</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="store">Store</string>
+    <string name="score">Score: </string>
+    <string name="level">Level: </string>
+    <string name="settings">Settings</string>
+    <string name="answer_context">Enter your answer</string>
+    <string name="back">Back</string>
+    <string name="info">Information</string>
+    <string name="banner_ads">ca-app-pub-9456842051222073~6256104313</string>
+    <string name="resume">Resume</string>
+    <string name="music">Music:</string>
+    <string name="sounds">Sounds:</string>
+    <string name="add">Buy a story</string>
+    <string name="not_money">Not enough coins!</string>
+    <string name="yes_money">The payment was made successfully!</string>
+    <string name="buy1">0.44$</string>
+    <string name="buy2">1.25$</string>
+    <string name="buy3">2.50$</string>
+    <string name="coin1">40 coins</string>
+    <string name="coin2">110 coins</string>
+    <string name="coin3">250 coins</string>
+    <string name="privacy">privacy policy</string>
+
+    //the rule
+    <string name="rules">The basic rules used in this game will be presented here.</string>
+    <string name="rules6">Rules №6:</string>
+    <string name="rules5">Rules №5:</string>
+    <string name="rules4">Rules №4:</string>
+    <string name="rules3">Rules №3:</string>
+    <string name="rules2">Rules №2:</string>
+    <string name="rules1">Rules №1:</string>
+
+    //the answer to the questions
+    <string name="lvl1">street</string>
+    <string name="lvl2">money</string>
+    <string name="lvl3">hen</string>
+    <string name="lvl4">house</string>
+    <string name="lvl5">catch</string>
+    <string name="lvl6">was</string>
+    <string name="lvl7">eat</string>
+    <string name="lvl8">choose</string>
+    <string name="lvl9">find</string>
+    <string name="lvl10">drink</string>
+    <string name="lvl11">burn</string>
+    <string name="lvl12">buy</string>
+    <string name="lvl13">build</string>
+    <string name="lvl14">light</string>
+    <string name="lvl15">station</string>
+    <string name="lvl16">name</string>
+    <string name="lvl17">heart</string>
+    <string name="lvl18">teacher</string>
+    <string name="lvl19">cat</string>
+    <string name="lvl20">ship</string>
+    <string name="lvl21">happen</string>
+    <string name="lvl22">town</string>
+    <string name="lvl23">hunt</string>
+    <string name="lvl24">forgot</string>
+    <string name="lvl25">had</string>
+    <string name="lvl26">came</string>
+    <string name="lvl27">got</string>
+    <string name="lvl28">milk</string>
+    <string name="lvl29">shirt</string>
+    <string name="lvl30">work</string>
+    <string name="lvl31">friendly</string>
+    <string name="lvl32">monday</string>
+    <string name="lvl33">voyage</string>
+    <string name="lvl34">tennis</string>
+    <string name="lvl35">juice</string>
+    <string name="lvl36">turkey</string>
+    <string name="lvl37">pencil</string>
+    <string name="lvl38">nine</string>
+    <string name="lvl39">cinema</string>
+
+</resources>

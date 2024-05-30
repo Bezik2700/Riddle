@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Ребусы</string>
+    <string name="start">Начать</string>
+    <string name="exit">Выход</string>
+    <string name="store">Магазин</string>
+    <string name="level">Уровень: </string>
+    <string name="score">Счет: </string>
+    <string name="info">Информация</string>
+    <string name="settings">Настройки</string>
+    <string name="answer_context">Введите Ваш ответ</string>
+    <string name="back">Назад</string>
+    <string name="banner_ads">ca-app-pub-9456842051222073~6256104313</string>
+    <string name="resume">Продолжить</string>
+    <string name="music">Музыка:</string>
+    <string name="sounds">Звуки:</string>
+    <string name="add">Купить подсказку</string>
+    <string name="not_money">Недостаточно монет!</string>
+    <string name="yes_money">Платеж совершен успешно!</string>
+    <string name="buy1">0.44$</string>
+    <string name="buy2">1.25$</string>
+    <string name="buy3">2.50$</string>
+    <string name="coin1">40 монет</string>
+    <string name="coin2">110 монет</string>
+    <string name="coin3">250 монет</string>
+    <string name="privacy">политика конфиденциальности</string>
+
+    //the rule
+    <string name="rules">Здесь будут показаны основные правила, используемы в данной игре.</string>
+    <string name="rules6">Правило №6</string>
+    <string name="rules5">Правило №5</string>
+    <string name="rules4">Правило №4</string>
+    <string name="rules3">Правило №3</string>
+    <string name="rules2">Правило №2</string>
+    <string name="rules1">Правило №1</string>
+
+    //the answer to the questions
+    <string name="lvl1">бабочка</string>
+    <string name="lvl2">свисток</string>
+    <string name="lvl3">ступень</string>
+    <string name="lvl4">грипп</string>
+    <string name="lvl5">ремешок</string>
+    <string name="lvl6">гроза</string>
+    <string name="lvl7">ножницы</string>
+    <string name="lvl8">рыбак</string>
+    <string name="lvl9">шутка</string>
+    <string name="lvl10">экран</string>
+    <string name="lvl11">крот</string>
+    <string name="lvl12">огород</string>
+    <string name="lvl13">наклейка</string>
+    <string name="lvl14">носок</string>
+    <string name="lvl15">кулиса</string>
+    <string name="lvl16">леска</string>
+    <string name="lvl17">рыцарь</string>
+    <string name="lvl18">бензобак</string>
+    <string name="lvl19">шарф</string>
+    <string name="lvl20">сорока</string>
+    <string name="lvl21">склон</string>
+    <string name="lvl22">семья</string>
+    <string name="lvl23">бросать</string>
+    <string name="lvl24">волк</string>
+    <string name="lvl25">лиса</string>
+    <string name="lvl26">хомячок</string>
+    <string name="lvl27">гвоздика</string>
+    <string name="lvl28">незабудка</string>
+    <string name="lvl29">контролёрша</string>
+    <string name="lvl30">указка</string>
+    <string name="lvl31">краски</string>
+    <string name="lvl32">ластик</string>
+    <string name="lvl33">мел</string>
+    <string name="lvl34">доска</string>
+    <string name="lvl35">подвал</string>
+    <string name="lvl36">каток</string>
+    <string name="lvl37">век</string>
+    <string name="lvl38">тигр</string>
+    <string name="lvl39">словарь</string>
+
+</resources>
